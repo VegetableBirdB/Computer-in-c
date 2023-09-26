@@ -1,0 +1,4 @@
+#include<stdio.h>
+#include<stdlib.h> rand() srand() time() ..
+#include<ctype.h> 判断大小写以及其它数据类型
+#include<assert.h>
