@@ -2,3 +2,5 @@
 #include<stdlib.h> rand() srand() time() ..
 #include<ctype.h> 判断大小写以及其它数据类型
 #include<assert.h>
+
+srand(time(NULL))  : generate random seeds and thereby calculate another random number, if you use srand(0), everytime you run your program, will get same random number
