@@ -1,6 +1,21 @@
 #include<stdio.h>
+sscanf()
+fgets()
+
+
 #include<stdlib.h> rand() srand() time() ..
+
+
 #include<ctype.h> 判断大小写以及其它数据类型
+
+
 #include<assert.h>
+
+
+#include<string.h> 
+strcpy(char*a, const char*b) a<--b  
+memset(void*a, int b, size_t c) b赋值给a前c个字符
+strcmp(const a,b)
+strncmp(a,b,c)
 
 srand(time(NULL))  : generate random seeds and thereby calculate another random number, if you use srand(0), everytime you run your program, will get same random number
